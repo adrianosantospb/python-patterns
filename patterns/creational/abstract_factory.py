@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Adriano Santos
+
 """
 *What is this pattern about?
 
